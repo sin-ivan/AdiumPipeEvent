@@ -1,0 +1,19 @@
+syntax: glob
+.DS_Store
+*.mode*
+*.pbxuser
+*.perspectivev3
+*.xcworkspace
+*.xcuserdatad
+build
+Icon*
+Docs
+Dependencies/Brew
+Dependencies/build
+Dependencies/source
+Dependencies/Frameworks
+Dependencies/build.log
+Dependencies/error.log
+Dependencies/framework_maker/*.pyc
+
+Resources/*/LC_MESSAGES
